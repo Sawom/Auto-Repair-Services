@@ -1,0 +1,14 @@
+.part1{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.part2{
+    width: auto;
+    border-right: 3px solid lightgrey;
+    margin-left: 5px;
+}
+.part3{
+    margin-left: 5px;
+    background-color: rgba(255, 153, 0, 0.3);
+    width: auto;
+}
